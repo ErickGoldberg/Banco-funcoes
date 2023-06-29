@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\bin\Debug\net7.0\Teste.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\bin\Debug\net7.0\Teste.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\bin\Debug\net7.0\Teste.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\bin\Debug\net7.0\Teste.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\bin\Debug\net7.0\Teste.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\refint\Teste.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\Teste.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Programação\C#\Teste\Teste\obj\Debug\net7.0\ref\Teste.dll
